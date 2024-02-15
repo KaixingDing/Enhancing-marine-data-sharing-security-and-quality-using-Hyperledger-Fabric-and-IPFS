@@ -1,0 +1,2 @@
+# Enhancing-marine-data-sharing-security-and-quality-using-Hyperledger-Fabric-and-IPFS
+This open-source project aims to implement innovative solutions for marine data management, focusing on the underlying implementation and performance testing of the data management layer. Based on Hyperledger Fabric v2.4.9 and JavaScript, the project includes chaincode (to be deployed on the blockchain) and locally runnable applications.

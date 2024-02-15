@@ -1,0 +1,23 @@
+{
+  "name": "apps",
+  "version": "1.0.0",
+  "description": "ipfs share apps",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaixing Ding",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.27.2",
+    "crypto": "^1.0.1",
+    "fabric-ca-client": "^2.2.4",
+    "fabric-network": "^2.2.4",
+    "json-stringify-deterministic": "^1.0.8",
+    "readline-sync": "^1.4.10",
+    "uuid": "^9.0.0"
+  }
+}
